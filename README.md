@@ -8,6 +8,7 @@ Puzzle game where you connect matching-colored dots by drawing paths on a grid. 
   <img src="screenshots/1.png" width="300" alt="Start Screen">
   <img src="screenshots/2.png" width="300" alt="Gameplay">
   <img src="screenshots/3.png" width="300" alt="Victory">
+  <img src="screenshots/4.png" width="300" alt="Levels">
 </div>
 
 ## Features
