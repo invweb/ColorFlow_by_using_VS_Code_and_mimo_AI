@@ -57,4 +57,4 @@ desktop/         — Compose Desktop app (UI + entry point)
 
 ## License
 
-MIT
+MIT-0
